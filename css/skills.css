@@ -45,9 +45,12 @@
     background-color: #4e4e50;
 }
 
-
-.web {
+.web1 {
     width: 60%; 
+    background-color: #4e4e50;
+}
+.web {
+    width: 50%; 
     background-color: #4e4e50;
 }
 
