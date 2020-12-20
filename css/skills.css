@@ -31,17 +31,17 @@
 }
 
 .data-structure {
-    width: 85%; 
-    background-color: #4e4e50;
-}
-
-.cpp {
     width: 75%; 
     background-color: #4e4e50;
 }
 
+.cpp {
+    width: 70%; 
+    background-color: #4e4e50;
+}
+
 .java {
-    width: 80%; 
+    width: 70%; 
     background-color: #4e4e50;
 }
 
